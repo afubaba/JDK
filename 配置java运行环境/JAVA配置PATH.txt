@@ -1,0 +1,4 @@
+﻿新建JAVA_HOME变量:C:\Program Files\Java\jre1.8.0_351;
+找到Path在值首部添加:C:\Program Files\Java\jre1.8.0_351\bin;
+
+新建CLASSPATH变量:.;C:\Program Files\Java\jre1.8.0_351\lib;
